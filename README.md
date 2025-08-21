@@ -21,4 +21,6 @@ A simple and elegant Todo App built using Flutter, with support for:
 
 - Modular and optimized code structure
 
-| ![Main Screen](assets/screenshot_1.png) | ![Main with Todos](assets/screenshot_2.png) | ![SubTodos Expanded](assets/screenshot_3.png)
+<img src="assets/screenshot_1.png" width="400"  alt="Main Screen"/>
+<img src="assets/screenshot_2.png" width="400"  alt="Main with Todos"/>
+<img src="assets/screenshot_3.png" width="400"  alt="SubTodos Expanded"/>
